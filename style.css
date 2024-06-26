@@ -1,0 +1,45 @@
+#x {
+    border: black;
+    background-color:black;
+    height: 140px;
+    width: 50px;
+    border-style: groove;
+}
+#a {
+    border: red;
+    background-color: red;
+    height: 35px;
+    width: 35px;
+    border-radius: 50%;
+    border-style: dashed;
+    margin: 5px;
+}
+
+#b {
+    border: yellow;
+    background-color: yellow;
+    height: 35px;
+    width: 35px;
+    border-radius: 50%;
+    border-style: dashed;
+    margin: 5px;
+}
+
+#c {
+    border: rgb(13, 255, 13);
+    background-color: rgb(13, 255, 13);
+    height: 35px;
+    width: 35px;
+    border-radius: 50%;
+    border-style: dashed;
+    margin: 5px;
+}
+
+#d {
+    border: black;
+    background-color:black;
+    height: 225px;
+    width: 5px;
+    border-style: groove;
+    margin-left: 23px;
+}
